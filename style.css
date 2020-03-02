@@ -6,7 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+img, video {
 max-width: 100%;
 }
 /* Sections*/
@@ -28,4 +28,4 @@ h2 {
     background-color: beige;
     color: pink;
     padding: 2px;
-} 
+}   
