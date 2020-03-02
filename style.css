@@ -17,6 +17,10 @@ max-width: 100%;
 }
 /* Sections*/
 
+.video-wrapper {
+    
+}
+
 .item {
     background-color: #b0c3e6;
     border: 2px dashed pink;
@@ -26,8 +30,10 @@ max-width: 100%;
 /* Typography */
 
 h1 {
+    text-align: center;
     color: beige;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 h2 {
