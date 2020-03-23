@@ -15,7 +15,16 @@ body {
 img, video, audio, iframe {
 max-width: 100%;
 }
-/* Sections*/
+
+/* Layout  */
+
+.layout {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Sections */
 
 .video-wrapper {
     
